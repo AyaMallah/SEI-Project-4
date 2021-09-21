@@ -1,0 +1,26 @@
+.register-page {
+}
+.register-container {
+  border: 1px solid lightgray;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: 'Varela', sans-serif;
+  background-image: url('https://res.cloudinary.com/dhrxw6zhp/image/upload/v1627401578/photo-1588796388888-ccc9600ce383_nnvdpj.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  .register-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    div {
+      margin: 10px;
+    }
+    #sign-up {
+      margin: 10px;
+      background-color: #c9e4c5;
+      border: lightgrey;
+      color: #597353;
+    }
+  }
+}

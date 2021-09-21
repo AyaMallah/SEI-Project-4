@@ -1,0 +1,36 @@
+.login-page {
+  display: flex;
+  justify-content: space-around;
+  div {
+    min-width: 40%;
+  }
+  img {
+    margin-top: 100px;
+    max-height: 600px;
+    max-height: 500px;
+  }
+}
+.login-container {
+  border: 1px solid lightgray;
+  margin: 100px 10px;
+  padding: 80px 70px;
+  font-family: 'Varela', sans-serif;
+  min-width: fit-content;
+  background-color: whitesmoke;
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 90px;
+    div {
+      margin: 10px;
+    }
+    #login {
+      margin: 10px;
+      background-color: #c9e4c5;
+      border: lightgrey;
+      color: #597353;
+      min-width: fit-content;
+    }
+  }
+}

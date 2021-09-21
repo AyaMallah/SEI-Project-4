@@ -1,0 +1,31 @@
+.create-post-container {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  .create-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    div {
+      margin: 20px;
+    }
+    .button {
+      display: flex;
+      justify-content: center;
+    }
+    #post-plant {
+      margin: 10px;
+      background-color: #c9e4c5;
+      border: lightgrey;
+      color: #597353;
+      min-width: fit-content;
+    }
+  }
+}
+.form-title {
+  margin-top: 30px;
+  font-family: 'Zen Tokyo Zoo';
+  font-size: 50px;
+  color: #526c4c;
+  text-align: center;
+}

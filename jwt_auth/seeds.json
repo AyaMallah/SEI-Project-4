@@ -1,0 +1,59 @@
+[
+{
+  "model": "jwt_auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$0oGaRSlmN3shfdinNNcxmR$/CSwBPvDEXFCrM72zwA3nu4Zesym4TYJX+dE1oR3+Lw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "PlantQueen",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-07-25T10:49:01.319Z",
+    "email": "plantqueen@email.com",
+    "first_name": "",
+    "last_name": "",
+    "profile_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1627131706/girl-holding-potted-flower-in-hands-floral-meditation-concept-love-vector-id1218795911_pmlnrh.jpg",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "jwt_auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$bdLKPtThVAfiY5S7EsZaiU$3WAYCrdEr+9efkGgxMU/nBycXPIM1TAPKbmC0uD5+EM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Lilly",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-07-25T17:46:30.408Z",
+    "email": "plantguru@email.com",
+    "first_name": "",
+    "last_name": "",
+    "profile_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1627234904/145722574-portrait-of-young-beautiful-woman-taking-care-of-the-house-plants-looking-at-the-small-tree-and-talk_zvmgny.jpg",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "jwt_auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$wEnWW3xdp9E5M0pMCprZUI$WdjDLKrm1Tfg9UaWlNogAqUjUL/I/ZfaycEMxVL9sdU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Earthman",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-07-25T18:04:30.691Z",
+    "email": "earthman@email.com",
+    "first_name": "",
+    "last_name": "",
+    "profile_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1627236257/IMG_2391_pcsfij.jpg",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

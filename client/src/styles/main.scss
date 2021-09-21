@@ -1,0 +1,95 @@
+@import './about.scss';
+@import './login.scss';
+@import './register.scss';
+@import './plantcare.scss';
+@import './community.scss';
+@import './communityid.scss';
+@import './communityadd.scss';
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tillana&display=swap');
+* {
+  box-sizing: border-box;
+}
+div#root {
+  background-color: #f8f5f1;
+}
+.logo {
+  max-width: 80px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  h1 {
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 45px;
+    text-decoration: underline #cee6b4;
+  }
+  .hero {
+    justify-content: space-evenly;
+    font-family: 'Varela', sans-serif;
+    .text-header-one {
+      font-family: 'Zen Tokyo Zoo';
+      font-size: 40px;
+      color: #526c4c;
+    }
+    .text-header-two {
+      font-family: 'Abril Fatface';
+      color: #c9e4c5;
+      margin-bottom: 50px;
+      font-size: 20px;
+    }
+    .hero-text {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      margin: 40px;
+      .quote {
+        font-family: 'Tillana';
+        color: white;
+        text-align: right;
+        p {
+          margin-top: 20px;
+        }
+      }
+    }
+  }
+  .image-home {
+    max-width: 300px;
+    border-radius: 30%;
+    margin: 10px;
+  }
+  .carousel-hero {
+    justify-content: space-between;
+    align-items: center;
+    max-height: 600px;
+  }
+  .carousel-text {
+    margin: 0 auto;
+    p {
+      font-family: 'Varela', sans-serif;
+      font-size: 20px;
+      text-decoration: overline;
+      color: orange;
+    }
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+}
+.one {
+  background-color: #c9e4c5;
+  padding: 0px 50px;
+  border-radius: 80%;
+}
+.two {
+  background-color: #5b6d5b;
+  border: lightgray 1px solid;
+  padding: 0px 20px;
+  border-radius: 5px;
+}

@@ -1,0 +1,82 @@
+[
+{
+  "model": "comments.comment",
+  "pk": 1,
+  "fields": {
+    "text": "Wow, love this! 🌱",
+    "created_at": "2021-07-25T10:50:02.688Z",
+    "plant": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 2,
+  "fields": {
+    "text": "Bonsai's are my fav! 🤍",
+    "created_at": "2021-07-25T17:48:37.738Z",
+    "plant": 4,
+    "owner": 2
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 3,
+  "fields": {
+    "text": "First off, don't panic, that plant is drooping but it is definitely not dead. If it had roots just be patient. Give it light, keep it moist, and at room temperature. If it did not have roots you might get it to root if you put a plastic bag over it to keep the atmosphere round it moist. GoodLuck!",
+    "created_at": "2021-07-25T17:57:43.060Z",
+    "plant": 5,
+    "owner": 2
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 4,
+  "fields": {
+    "text": "Amazing plants, I own one myself too 😊",
+    "created_at": "2021-07-25T18:07:06.354Z",
+    "plant": 6,
+    "owner": 3
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 5,
+  "fields": {
+    "text": "Asthetically pleasing plants and plant pots 🪴",
+    "created_at": "2021-07-25T18:21:19.357Z",
+    "plant": 2,
+    "owner": 3
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 6,
+  "fields": {
+    "text": "Did you know that these plants are typically from Africa, Central America, the European Alps, South America and South Africa 💭",
+    "created_at": "2021-07-25T18:22:39.198Z",
+    "plant": 3,
+    "owner": 3
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 7,
+  "fields": {
+    "text": "Very popular, so quirky and low maintenance 👍🏼",
+    "created_at": "2021-07-25T18:27:42.817Z",
+    "plant": 1,
+    "owner": 3
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 9,
+  "fields": {
+    "text": "I might have to buy one to help with my savings ahaha 😂",
+    "created_at": "2021-07-25T18:41:12.729Z",
+    "plant": 6,
+    "owner": 1
+  }
+}
+]

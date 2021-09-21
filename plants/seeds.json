@@ -1,0 +1,101 @@
+[
+{
+  "model": "plants.plant",
+  "pk": 1,
+  "fields": {
+    "title": "Green Bowl",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1626884302/engin-akyurt-4a01QLis_Bk-unsplash_c5fje6.jpg",
+    "description": "Moss bowls are very popular in home decor these days. They are quirky and beautiful at the same time. Live moss bowls are a good way to have greenery in your. room but be low maintenance. Let look gorgeous too!",
+    "category": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "plants.plant",
+  "pk": 2,
+  "fields": {
+    "title": "Pothos Plant",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1626884545/annie-spratt-JruJFy08KB8-unsplash_sryrqt.jpg",
+    "description": "The Pothos plant is often considered to be a great starter house plant because they are easy to care for and survive in most conditions.  They grow well in bright light and in low light although it’s best to avoid too much direct sunlight.  When it comes to watering, pothos like to dry out in between each watering.",
+    "category": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "plants.plant",
+  "pk": 3,
+  "fields": {
+    "title": "New Succulents Set",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1626884399/annie-spratt-ncQ2sguVlgo-unsplash_laiez6.jpg",
+    "description": "I am so happy with my new set! Succulent plants have a unique adaptation that enables them to tolerate limited watering better than most houseplants. Their thick, fleshy leaves and stems, as well as their enlarged roots, allow them to retain water so that they do not need watering as frequently as other plants.",
+    "category": 3,
+    "owner": 1
+  }
+},
+{
+  "model": "plants.plant",
+  "pk": 4,
+  "fields": {
+    "title": "Bonsai Love",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1626883942/toa-heftiba-W1yjvf5idqA-unsplash_vglqep.jpg",
+    "description": "Bonsai trees are awesome. Just ask Mr Miyagi. They look beautiful, they fit in your house, they encourage patience and dedication, they relieve stress, and they help to purify the air.",
+    "category": 3,
+    "owner": 1
+  }
+},
+{
+  "model": "plants.plant",
+  "pk": 5,
+  "fields": {
+    "title": "My plant is dying, help?!",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1626884306/dan-gold-deBocYnabyE-unsplash_cu5kbe.jpg",
+    "description": "Hi all, I am new to the forum and require urgent help. I re-potted my house plant last week and it is starting to die already. It is a green leaf with red on it (kind of marbled) and the stem has fine red vains. It is no longer standing up right either. I have no idea what it is or how to save it. All advice greatly appreciated. Thank you",
+    "category": 2,
+    "owner": 1
+  }
+},
+{
+  "model": "plants.plant",
+  "pk": 6,
+  "fields": {
+    "title": "Chinese Money Plant",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1626885119/maarten-deckers-a7MQv3TBvOk-unsplash_yegequ.jpg",
+    "description": "According to Feng Shui enthusiasts, the Chinese Money plant brings good luck, money and prosperity to its owner. Legend says that if you place a coin in its soil, you will become rich!",
+    "category": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "plants.plant",
+  "pk": 7,
+  "fields": {
+    "title": "Time to Flourish",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1626884671/annie-spratt-0cAlNigDa8Q-unsplash_msadkb.jpg",
+    "description": "These flowers flourish in a sunny environment, featuring cool green leaves with deep purple, vibrant yellow, perfect pink and bright blue blooms. Makes the house look colorful and beautiful, perfect for summer!",
+    "category": 3,
+    "owner": 3
+  }
+},
+{
+  "model": "plants.plant",
+  "pk": 8,
+  "fields": {
+    "title": "Fun Fact!",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1627238108/photo-1573147574898-bb6d26f78c43_vsczfv.jpg",
+    "description": "Plants love music, I play guitar to mine. Growing your plants can be a quiet and peaceful experience but they also want to listen to your playlists. House plants love music and it encourages growth, so turn up your playlist!",
+    "category": 1,
+    "owner": 3
+  }
+},
+{
+  "model": "plants.plant",
+  "pk": 9,
+  "fields": {
+    "title": "My potted plant is too dry",
+    "cover_image": "https://res.cloudinary.com/dhrxw6zhp/image/upload/v1627238793/photo-1609702053221-82db08fa874e_pyb5de.jpg",
+    "description": "Indications that a potted plant is badly dehydrated include slow growth, yellowing and curling of lower leaves, and browning or brittleness of leaf edges. But there is still a chance to save it! Use a fork to break up the dry soil, then submerge the entire container in a bucket of lukewarm water. Remove the pot from the bucket and allow the plant to drain thoroughly, then use scissors to prune the plant down.",
+    "category": 2,
+    "owner": 2
+  }
+}
+]
