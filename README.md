@@ -48,13 +48,13 @@ https://plant-blog.herokuapp.com/
 
 ## Installation
 * Clone or download the repo.
-* pipenv to install Python packages.
-* python manage.py loaddata jwt_auth/seeds.json to load user from the database.
-* python manage.py loaddata plants/seeds.json to load plants from the database.
-* cd client to go to the frontend directory.
-* yarn install to install frontend dependencies.
-* run yarn build.
-* go back to the main directory and run python manage.py runserver to start the app.
+* `pipenv` to install Python packages.
+* `python manage.py loaddata jwt_auth/seeds.json` to load user from the database.
+* `python manage.py loaddata plants/seeds.json `to load plants from the database.
+* `cd client` to go to the frontend directory.
+* `yarn install` to install frontend dependencies.
+* run `yarn build`.
+* go back to the main directory and run `python manage.py runserver` to start the app.
 
 ## Plan
 I decided to create a social media app with a focus on sharing plant photos, care tips and much more. I used Figma to create wireframes for the front-end and Trello for organising the work into seperate tickets. Also, using Miro I was able to plan my models and relationships as well as the user journey.
@@ -95,7 +95,7 @@ I was very proud of integrating Cloudinary API to my application in storing user
 ## Challenges
 Implementing reusable components and variables throughout the project.
 
-Changing the models on the back-end and then using commands ‘python manage.py makemigrations’ and ‘python manage.py migrate’. It was causing errors. The only way to sort it was to dump data and reseed it again. 
+Changing the models on the back-end and then using commands `python manage.py makemigrations` and `python manage.py migrate`. It was causing errors. The only way to sort it was to dump data and reseed it again. 
 
 
 ## Bugs
