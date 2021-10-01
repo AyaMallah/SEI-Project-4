@@ -21,8 +21,7 @@ For my last project with General Assembly’s Software Engineering course, I was
 * Be deployed online so it’s publicly accessible.
 
 ## Deployment
-https://plant-blog.herokuapp.com/
-
+<a href="https://plant-blog.herokuapp.com/" target="_blank">Plants</a>
 
 ## Timeframe
 9 days
