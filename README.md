@@ -84,23 +84,23 @@ There are two types of users, those that are logged in and those that are not. B
 <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1632926563/QCVq9iE2NF1n18DkyhxVTJjaI8oFiryNi32MXJwhZYf9DSsDuC3iluNMdZLOsW5FJ97xdIwtDaH9gL_8H08yk7X-TmTp6FKlBsRxjaXkw-43DsD5MJWg8m1VFZxzXRy1THFv1OKD_s0_vlebdn.png" width="500px"/>
 
 ## Wins
-I really enjoyed taking the time to learn Figma - it was instrumental in my understanding of how I wanted the front-end to look and function. 
+* I really enjoyed taking the time to learn Figma - it was instrumental in my understanding of how I wanted the front-end to look and function. 
 
-Although I encountered some bugs, I managed to fix almost all of them before submitting my project. 
+* Although I encountered some bugs, I managed to fix almost all of them before submitting my project. 
 
-I was very proud of integrating Cloudinary API to my application in storing user uploaded images has been extremely satisfying.
+* I was very proud of integrating Cloudinary API to my application in storing user uploaded images has been extremely satisfying.
 
 
 ## Challenges
-Implementing reusable components and variables throughout the project.
+* Implementing reusable components and variables throughout the project.
 
-Changing the models on the back-end and then using commands `python manage.py makemigrations` and `python manage.py migrate`. It was causing errors. The only way to sort it was to dump data and reseed it again. 
+* Changing the models on the back-end and then using commands `python manage.py makemigrations` and `python manage.py migrate`. It was causing errors. The only way to sort it was to dump data and reseed it again. 
 
 
 ## Bugs
-Unfortunately I did not have time to check the whole site for responsiveness. I want to check that all pages are responsive and can be viewed on all different screen sizes.
+* Unfortunately I did not have time to check the whole site for responsiveness. I want to check that all pages are responsive and can be viewed on all different screen sizes.
 
-Also I still need to fix the functionality of creating a post, when attempting to upload an image from my computer it does not find a path. I want to be able to click on any image a user has saved on their device and to post it rather than having to post a url for the image itself.
+* Also I still need to fix the functionality of creating a post, when attempting to upload an image from my computer it does not find a path. I want to be able to click on any image a user has saved on their device and to post it rather than having to post a url for the image itself.
 
 ## Future features
 * Ability to upload multiple images of a plant, as well as change already uploaded images.
