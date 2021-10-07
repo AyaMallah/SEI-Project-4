@@ -24,7 +24,7 @@ For my last project with General Assembly’s Software Engineering course, I was
 <a href="https://plant-blog.herokuapp.com/" target="_blank">Plants</a>
 
 ## Timeframe
-9 days
+7 days
 
 ## Technologies:
 **Planning**
