@@ -27,20 +27,27 @@ For my last project with General Assembly’s Software Engineering course, I was
 7 days
 
 ## Technologies:
-**Planning**
+**Planning:**
+
 * Figma
 * Trello
 * Miro
-**Backend**
+
+**Backend:**
+
 * Python
 * Django
 * PostgreSQL
-**Frontend**
+
+**Frontend:**
+
 * React
 * SASS
 * Bootstrap/React Bootstrap
 * Axios
-**Other**
+
+**Other:**
+
 * Git
 * GitHub
 
